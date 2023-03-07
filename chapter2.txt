@@ -1,1 +1,3 @@
 Moving to staging area and commiting.
+Now editing this file to learn about checkout command which will restore file's pervious version.
+Note: checkout command is used on chapter 3 and not on chapter 2.
