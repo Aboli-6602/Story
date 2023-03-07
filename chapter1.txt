@@ -1,0 +1,1 @@
+This first chapter is created for adding it to an empty repository and making first commit.
